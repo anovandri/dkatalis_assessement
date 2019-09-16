@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.avro:avro:1.9.0.10p">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Maven_Repository/repository_al/org/apache/avro/avro/1.9.0.10p/avro-1.9.0.10p.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../Maven_Repository/repository_al/org/apache/avro/avro/1.9.0.10p/avro-1.9.0.10p-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Maven_Repository/repository_al/org/apache/avro/avro/1.9.0.10p/avro-1.9.0.10p-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

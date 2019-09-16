@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.spf4j:spf4j-core:8.6.10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Maven_Repository/repository_al/org/spf4j/spf4j-core/8.6.10/spf4j-core-8.6.10.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../Maven_Repository/repository_al/org/spf4j/spf4j-core/8.6.10/spf4j-core-8.6.10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Maven_Repository/repository_al/org/spf4j/spf4j-core/8.6.10/spf4j-core-8.6.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
